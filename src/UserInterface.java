@@ -7,6 +7,7 @@ public class UserInterface {
     public UserInterface() {
 
         this.reader = new InputReader();
+        this.library = new MovieLibrary();
 
     }
 
